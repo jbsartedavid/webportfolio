@@ -1,0 +1,28 @@
+<!-- CSS Reset Rule -->
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+h1,h2,h3,p {
+	font-family: Poppins, sans-serif;
+}
+
+/*NAV*/
+nav {
+		background-color: #DCA06D!important; 
+}
+
+/*ABOUT*/
+#about {
+	background-color: #A55B4B !important; 
+}
+#about-img {
+	width: 300px;
+}
+
+
+footer {
+	background-color: #DCA06D !important; 
+}
