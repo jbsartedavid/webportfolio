@@ -11,18 +11,11 @@ h1,h2,h3,p {
 
 /*NAV*/
 nav {
-		background-color: #DCA06D!important; 
+	background-color: #F2EFE7 !important; 
 }
 
-/*ABOUT*/
-#about {
-	background-color: #A55B4B !important; 
-}
 #about-img {
 	width: 300px;
 }
 
 
-footer {
-	background-color: #DCA06D !important; 
-}
