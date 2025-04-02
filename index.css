@@ -14,11 +14,26 @@ nav {
 	background-color: #F2EFE7 !important; 
 }
 
+/*LANDING*/
 #about-img {
 	width: 300px;
 }
 
-/*Footer*/
+/*TOOLS*/
+#toolsEJS {
+	width: 90px;
+}
+#toolsNode {
+	width: 75px;
+}
+#toolsPostman {
+	width: 75px;
+}
+#toolsSublime {
+	width: 75px;
+}
+
+/*FOOTER*/
 
 #imgLinkedin  {
 	width: 50px;
