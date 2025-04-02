@@ -1,3 +1,0 @@
-Git Demonstration
-
-Hello World!
